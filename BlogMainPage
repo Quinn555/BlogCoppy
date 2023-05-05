@@ -2,24 +2,47 @@
 <html>
     <head>
         <style type = "text/css">
-            body {
-                background: url(/Users/qwest/Desktop/MyBlogCopy/pngwing.com.png);
+          .back{
+            background-color: #272626;
+          } 
+          body {
+                background-color: #272626;
+                background: url(pngwing.com.png) center no-repeat;
+                background-position-y: 40px;
                 font-family: Arial, Helvetica, sans-serif;
+                text-align: center;
+                color: #ffffff
             }
+          h1{
+            margin: 80px 3px -15px 0px;
+            font-size: 50px;
+          }
+          a{
+            padding: 10px ;
+          }
+          .Ari{
+            font-family: ans-serif;
+            
+          }
+          
         </style>
 
         </style>
     </head>
+    <body class = "back">
+    </body>
     <body>
+      <h5>
         <a herf = "/Users/qwest/Desktop/MyBlogCopy/Home">Home</a>
-        <a herf = "/Users/qwest/Desktop/MyBlogCopy/About">About</a>
-        <a herf = "/Users/qwest/Desktop/MyBlogCopy/Contact">Contact</a>
+        <a class = "stuff2" herf = "/Users/qwest/Desktop/MyBlogCopy/About">About</a>
+        <a class = "stuff3" herf = "/Users/qwest/Desktop/MyBlogCopy/Contact">Contact</a>
+      </h5>
 
         <h1>
             My Blog
         </h1>
 
-        <h5>
+        <h5 class = Ari>
             Come hear my thoughts on life
         </h5>
 
