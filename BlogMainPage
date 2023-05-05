@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type = "text/css">
+            body {
+                background: url(/Users/qwest/Desktop/MyBlogCopy/pngwing.com.png);
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        </style>
+
+        </style>
+    </head>
+    <body>
+        <a herf = "/Users/qwest/Desktop/MyBlogCopy/Home">Home</a>
+        <a herf = "/Users/qwest/Desktop/MyBlogCopy/About">About</a>
+        <a herf = "/Users/qwest/Desktop/MyBlogCopy/Contact">Contact</a>
+
+        <h1>
+            My Blog
+        </h1>
+
+        <h5>
+            Come hear my thoughts on life
+        </h5>
+
+    </body>
+</html>
